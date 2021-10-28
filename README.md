@@ -1,5 +1,5 @@
 # Eggcellent!
-![img](https://imgur.com/jd2cUmK)
+![recordit gif](http://recordit.co/bEk1DrZHul)
 A simple react application that uses Tailwindcss to style components and react-router to simulate multi pages across a navigation bar. It is hooks based and features a responsive hamburger dropdown menu that appears in mobile but is hidden on destop sizes. 
 
 ## TailwindCSS

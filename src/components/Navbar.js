@@ -9,7 +9,7 @@ export default function Navbar({toggle}) {
             '>
            <Link to="/" className='pl-8'>EGG</Link>
            <div className='px-4 cursor-pointer md:hidden'
-           onClick={toggle}>
+                    onClick={toggle}>
                <svg className="w-6 h-6" 
                     fill="none" 
                     stroke="currentColor" 

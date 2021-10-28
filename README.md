@@ -1,5 +1,5 @@
 # Eggcellent!
-
+![img](https://imgur.com/a/tjGX0CW)
 A simple react application that uses Tailwindcss to style components and react-router to simulate multi pages across a navigation bar. 
 
 ## TailwindCSS
